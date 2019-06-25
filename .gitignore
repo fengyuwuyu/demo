@@ -1,0 +1,25 @@
+*.log
+bin/
+lib/
+target/
+.classpath
+.project
+.classpath
+.settings/
+target/
+.metadata/
+.recommenders/
+WebContent/
+
+#JetBrains project configuration files.
+.idea
+*.iml
+
+t_log
+alert_log
+
+*.pyc
+templates/
+templates_raw/
+templates_out/
+

@@ -9,9 +9,9 @@
   
   <dependencies>
   	<!-- https://mvnrepository.com/artifact/com.rabbitmq/amqp-client -->
-	<dependency>
-	    <groupId>com.rabbitmq</groupId>
-	    <artifactId>amqp-client</artifactId>
-	</dependency>
+		<dependency>
+		    <groupId>com.rabbitmq</groupId>
+		    <artifactId>amqp-client</artifactId>
+		</dependency>
   </dependencies>
 </project>
