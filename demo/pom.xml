@@ -6,6 +6,8 @@
   <packaging>pom</packaging>
   <modules>
   	<module>rabbitmq</module>
+  	<module>encryption</module>
+  	<module>distribute-system</module>
   </modules>
   
   <properties>
